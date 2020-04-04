@@ -39,7 +39,7 @@ pulseIn() waits for the pin to go from LOW to HIGH, starts timing, then waits fo
 pin to go LOW and stops timing. Returns the length of the pulse in microseconds or  
 gives up and returns 0 if no complete pulse was received within the timeout.
 
-Pulse length finding is basically important communication type signals and sonar  
+Pulse length finding is basically important for communication type signals and sonar  
 type signals where the operations are duration based.
 
 
